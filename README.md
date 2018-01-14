@@ -33,3 +33,6 @@ Learning Machine Learning
 * [Wikipedia Iris Dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set)
 * [WIkipedia MNIST Dataset](https://en.wikipedia.org/wiki/MNIST_database)
 * [University of California Irvine ML Datasets](https://archive.ics.uci.edu/ml/index.php)
+
+### Sonstiges
+* [Code for Machine Learning Recipes with Josh Gordon](https://github.com/officialgupta/MachineLearningRecipes)
