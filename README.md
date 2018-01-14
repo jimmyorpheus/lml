@@ -30,4 +30,6 @@ Learning Machine Learning
 
 ### Machine Learning Datasets
 * [Wikipedia ML Datasets](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
+* [Wikipedia Iris Dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set)
+* [WIkipedia MNIST Dataset](https://en.wikipedia.org/wiki/MNIST_database)
 * [University of California Irvine ML Datasets](https://archive.ics.uci.edu/ml/index.php)

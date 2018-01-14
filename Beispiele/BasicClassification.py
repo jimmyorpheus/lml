@@ -10,3 +10,4 @@ clf = tree.DecisionTreeClassifier()
 clf = clf.fit(features, labels)
 
 print(clf.predict([[160, 0]]))
+
