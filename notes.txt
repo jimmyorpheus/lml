@@ -1,0 +1,28 @@
+Features: Good features help to discriminate between classs
+
+Supervised Learning:
+
+Classification:
+	Types:
+		- Decision Trees
+			- easy to read / interpretable (you can understand how the internl rules lead to a specific decision?)
+		- Support Vector Machines	
+		- Artificial Neuroal Networks
+
+Testing Data:
+	- not party of training data
+	- used to test accuracy of classifier
+
+
+Data-Sets:
+	- IRIS
+		- 3 different types of flowers
+		- 50 examples per type (150 examples total)
+		- 4 features
+
+
+
+
+
+		
+
