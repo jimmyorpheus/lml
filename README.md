@@ -36,3 +36,7 @@ Learning Machine Learning
 
 ### Sonstiges
 * [Code for Machine Learning Recipes with Josh Gordon](https://github.com/officialgupta/MachineLearningRecipes)
+
+### MySQL
+* [Mysql- Quickstart](http://www.jancarloviray.com/blog/mysql-quickstart-cheat-sheet/)
+* [Mysql - SELECT Anweisungen](https://www.php-kurs.com/mysql-select-anweisung.htm)
