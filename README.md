@@ -40,3 +40,9 @@ Learning Machine Learning
 ### MySQL
 * [Mysql- Quickstart](http://www.jancarloviray.com/blog/mysql-quickstart-cheat-sheet/)
 * [Mysql - SELECT Anweisungen](https://www.php-kurs.com/mysql-select-anweisung.htm)
+
+### Jupyter Notebooks
+* [Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+
+### Pandas
+* [Usefull Snippets by Nikolay Grozev](http://nikgrozev.com/2015/12/27/pandas-in-jupyter-quickstart-and-useful-snippets/)
